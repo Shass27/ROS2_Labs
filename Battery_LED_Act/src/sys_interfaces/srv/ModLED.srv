@@ -1,4 +1,4 @@
-int64 LED_num
+int64 led_num
 bool state
 ---
 bool success
