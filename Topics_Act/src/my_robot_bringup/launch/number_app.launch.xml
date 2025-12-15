@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="number_publisher" exec="number_publisher"/>
+    <node pkg="number_counter" exec="number_counter"/>
+</launch>
